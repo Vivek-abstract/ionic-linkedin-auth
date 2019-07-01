@@ -1,5 +1,7 @@
 {
   "name": "ionic-linkedin-auth",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
